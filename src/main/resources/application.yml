@@ -1,0 +1,3 @@
+elastic:
+  host: ${ELASTICSEARCH_HOST}
+  port: ${ELASTICSEARCH_PORT}
